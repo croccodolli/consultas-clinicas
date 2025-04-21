@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import url('styles/reset.css');
+@import url('styles/cabecalho.css');
+@import url('styles/consultas.css');
+@import url('styles/rodape.css');
+@import url('styles/botao-flutuante.css');
+
+
+:root {
+    --cor-fundo-body: rgba(248, 245, 254, 1);
+    --branco: #FFFFFF;
+    --cor-fonte-principal: rgba(70, 70, 70, 1);
+    --cor-fonte-secundaria: rgba(163, 163, 163, 1);
+    --cor-botao-endereco: rgba(72, 148, 255, 1);
+    --cor-botao-video: rgba(255, 176, 80, 1);
+    --cor-linha-fina: rgba(70, 70, 70, 0.1);
+    --cor-tela-escura: rgba(0, 0, 0, 0.6);
+
+    --fonte-principal: "Montserrat", sans-serif;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: var(--fonte-principal);
+    font-size: 1em;
+    background-color: var(--cor-fundo-body);
+    height: 534px;
+}
