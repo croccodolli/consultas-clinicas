@@ -5,6 +5,6 @@ Este é um projeto #7DaysOfCode da Alura e foi desenvolvido durante a formação
 🛠️ **Construído com**
 HTML | CSS
 
-🔗 Acesse o projeto.
+🔗 Acesse o [projeto](https://croccodolli.github.io/consultas-clinicas/).
 
 por _Clara Comandolli_
